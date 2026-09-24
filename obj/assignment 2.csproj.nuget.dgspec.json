@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitch\\Morrisville\\Fall 2026\\CITA 255\\assignment 2\\assignment 2\\assignment 2.csproj": {}
+    "C:\\Users\\mitch\\OneDrive\\Documents\\GitHub\\Assignment 2\\assignment 2\\assignment 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mitch\\Morrisville\\Fall 2026\\CITA 255\\assignment 2\\assignment 2\\assignment 2.csproj": {
+    "C:\\Users\\mitch\\OneDrive\\Documents\\GitHub\\Assignment 2\\assignment 2\\assignment 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitch\\Morrisville\\Fall 2026\\CITA 255\\assignment 2\\assignment 2\\assignment 2.csproj",
+        "projectUniqueName": "C:\\Users\\mitch\\OneDrive\\Documents\\GitHub\\Assignment 2\\assignment 2\\assignment 2.csproj",
         "projectName": "assignment 2",
-        "projectPath": "C:\\Users\\mitch\\Morrisville\\Fall 2026\\CITA 255\\assignment 2\\assignment 2\\assignment 2.csproj",
+        "projectPath": "C:\\Users\\mitch\\OneDrive\\Documents\\GitHub\\Assignment 2\\assignment 2\\assignment 2.csproj",
         "packagesPath": "C:\\Users\\mitch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitch\\Morrisville\\Fall 2026\\CITA 255\\assignment 2\\assignment 2\\obj\\",
+        "outputPath": "C:\\Users\\mitch\\OneDrive\\Documents\\GitHub\\Assignment 2\\assignment 2\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

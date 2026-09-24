@@ -21,13 +21,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = assignment_2
-build_property.ProjectDir = C:\Users\mitch\Morrisville\Fall 2026\CITA 255\assignment 2\assignment 2\
+build_property.ProjectDir = C:\Users\mitch\OneDrive\Documents\GitHub\Assignment 2\assignment 2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/mitch/Morrisville/Fall 2026/CITA 255/assignment 2/assignment 2/App.xaml]
+[C:/Users/mitch/OneDrive/Documents/GitHub/Assignment 2/assignment 2/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = assignment_2.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -37,7 +37,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/mitch/Morrisville/Fall 2026/CITA 255/assignment 2/assignment 2/AppShell.xaml]
+[C:/Users/mitch/OneDrive/Documents/GitHub/Assignment 2/assignment 2/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = assignment_2.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -47,7 +47,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/mitch/Morrisville/Fall 2026/CITA 255/assignment 2/assignment 2/MainPage.xaml]
+[C:/Users/mitch/OneDrive/Documents/GitHub/Assignment 2/assignment 2/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = assignment_2.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -57,7 +57,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/mitch/Morrisville/Fall 2026/CITA 255/assignment 2/assignment 2/Resources/Styles/Colors.xaml]
+[C:/Users/mitch/OneDrive/Documents/GitHub/Assignment 2/assignment 2/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = assignment_2.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -67,7 +67,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/mitch/Morrisville/Fall 2026/CITA 255/assignment 2/assignment 2/Resources/Styles/Styles.xaml]
+[C:/Users/mitch/OneDrive/Documents/GitHub/Assignment 2/assignment 2/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = assignment_2.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
